@@ -17,6 +17,4 @@ It integrates speech recognition and text-to-speech to perform real-time voice i
 - pyttsx3
 - Pillow (for image handling)
 
-## ▶️ How to Run
-1. Clone the repository  
-   ```bash
+
